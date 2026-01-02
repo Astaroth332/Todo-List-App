@@ -1,0 +1,24 @@
+table 
+{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table tr th, table tr td
+{
+    padding: 5px;
+    border: 1px #eee solid;
+}
+
+ul 
+{
+    list-style-type: none;
+    padding: 3px;
+    display: flex;
+}
+
+ul li
+{
+    padding: 7px;
+}
